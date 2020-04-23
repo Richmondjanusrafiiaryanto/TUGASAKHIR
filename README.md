@@ -9,5 +9,5 @@ dan databasenya ini
 saya tau database saya cuman gitu😪soalnya saya belum paham bener" soal database😭 
 
 
-Sama saya lupa rekam ABOUTNYA 😪
+Sama saya lupa rekam ABOUTNYA Di Instagram😪
 ![Alt Text](https://github.com/Richmondjanusrafiiaryanto/TUGASAKHIR/blob/master/ABOUTNYAAA.PNG)
