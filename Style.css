@@ -1,0 +1,87 @@
+<style type="text/css">
+body{
+  font-family: arial;
+  font-size: 14px;
+}
+#canvas{
+  width: 1000px;
+  height: auto;
+  margin: 0 auto;
+  border: 1px solid black;
+  list-style: none;
+}
+#header{
+  font-size: 20px;
+  padding: 20px;
+  background-color: #37BCFF;
+  color: #fff;
+  list-style: none;
+}
+#menu{
+  background-color: #37BCFF;
+}
+#menu ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+#menu ul li.utama{
+  display: inline-table;
+}
+#menu ul li:hover{
+  background-color: #0070A7 ;
+}
+#menu ul li a{
+  display: block;
+  text-decoration: none;
+  line-height: 40px;
+  padding: 0 10px;
+  color: #fff;
+}
+#isi{
+  min-width: 400px;
+  height: auto;
+  padding: 10px;
+  border-color: white;
+}
+#isi ul li{
+  list-style: none;
+  align-content: center;
+  align: center;
+  padding: 5px;
+}
+#tombol{
+  padding: 5px;
+  list-style: none;
+}
+#tombol ul li{
+  list-style: none;
+  align-content: center;
+  align: center;
+}
+#tombol ul li a input{
+  background-color: green;
+  color: white;
+}
+#footer{
+  text-align: center;
+  padding: 20px;
+  background-color: #37BCFF;
+  color: #fff;
+}
+.utama ul{
+  display: none;
+  position: absolute;
+  z-index: 2;
+}
+.utama:hover ul{
+  display: block;
+}
+.utama ul li{
+  display: block;
+  background-color: #8E8E8E;
+  width: 140px;
+}
+
+
+</style>
